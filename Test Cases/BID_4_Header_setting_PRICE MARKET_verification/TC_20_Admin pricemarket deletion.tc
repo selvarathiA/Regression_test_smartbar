@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_20_Admin pricemarket deletion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b29ead6c-7930-4db6-aa21-45bb126fb4f2</testCaseGuid>
+   <variable>
+      <defaultValue>'adminpricevalue'</defaultValue>
+      <description></description>
+      <id>23c5a9d5-c9cc-4937-a51b-bf4bad4dd952</id>
+      <masked>false</masked>
+      <name>pricemarket</name>
+   </variable>
+</TestCaseEntity>

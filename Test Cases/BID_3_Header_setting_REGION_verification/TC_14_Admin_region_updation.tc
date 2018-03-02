@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_14_Admin_region_updation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7bb896e-b8ec-455b-95d6-f7de419aa5cb</testCaseGuid>
+   <variable>
+      <defaultValue>'East'</defaultValue>
+      <description></description>
+      <id>cae5c93e-61e9-488d-b4da-badedf792df3</id>
+      <masked>false</masked>
+      <name>region</name>
+   </variable>
+</TestCaseEntity>

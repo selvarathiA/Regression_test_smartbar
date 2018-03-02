@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_27_Update user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edf0d23e-5aa3-435a-8a32-03d4c21290ca</testCaseGuid>
+   <variable>
+      <defaultValue>'testdolly1'</defaultValue>
+      <description></description>
+      <id>49cb1b71-8d8b-4b21-805e-74c2a4505e3c</id>
+      <masked>false</masked>
+      <name>User</name>
+   </variable>
+   <variable>
+      <defaultValue>'G1'</defaultValue>
+      <description></description>
+      <id>09940040-c8c7-4833-8d2f-e090a42867f5</id>
+      <masked>false</masked>
+      <name>groupname</name>
+   </variable>
+</TestCaseEntity>

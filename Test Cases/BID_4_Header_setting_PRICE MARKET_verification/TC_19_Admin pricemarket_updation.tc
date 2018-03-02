@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_19_Admin pricemarket_updation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>389c7e51-05f2-4433-af10-9ba8d6745509</testCaseGuid>
+   <variable>
+      <defaultValue>'adminpricevalue'</defaultValue>
+      <description></description>
+      <id>88294b9c-e5f6-465f-b2b0-41a4edb22839</id>
+      <masked>false</masked>
+      <name>pricemarket</name>
+   </variable>
+</TestCaseEntity>

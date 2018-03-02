@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_25_Add user_beerboard admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>270ec154-02b6-40db-a0ef-3caa84d077e0</testCaseGuid>
+   <variable>
+      <defaultValue>'G1'</defaultValue>
+      <description></description>
+      <id>b9906854-a034-4c1c-821d-12432c4024c1</id>
+      <masked>false</masked>
+      <name>groupname</name>
+   </variable>
+</TestCaseEntity>

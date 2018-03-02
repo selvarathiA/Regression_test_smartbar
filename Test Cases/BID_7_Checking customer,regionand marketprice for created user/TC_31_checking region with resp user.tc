@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_31_checking region with resp user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0e8fca0-3479-48a9-b69b-1706b55235c5</testCaseGuid>
+   <variable>
+      <defaultValue>'north-west'</defaultValue>
+      <description></description>
+      <id>cf4506ea-80e4-449d-b3a0-fedcb5902bf8</id>
+      <masked>false</masked>
+      <name>region</name>
+   </variable>
+</TestCaseEntity>

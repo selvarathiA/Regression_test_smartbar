@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_addrCity</name>
+   <tag></tag>
+   <elementGuidId>c5383988-0597-421c-8af8-5a8375d57521</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-white form-control custom-lbl-button ng-pristine ng-valid ng-valid-required ng-touched ng-animate ng-dirty-add ng-valid-parse-add ng-pristine-remove</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>addrCity</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>locationInfos.location.addrCity</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-required</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>required</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-animate</name>
+      <type>Main</type>
+      <value>2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;locationInfoForm&quot;)/fieldset[@class=&quot;scheduler-border&quot;]/div[@class=&quot;control-group&quot;]/div[@class=&quot;col-md-12 col-sm-12 arrow-drop&quot;]/ng-include[@class=&quot;ng-scope&quot;]/div[@class=&quot;col-md-6 col-sm-6 arrow-drop ng-scope&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-7&quot;]/input[@class=&quot;font-white form-control custom-lbl-button ng-pristine ng-valid ng-valid-required ng-touched ng-animate ng-dirty-add ng-valid-parse-add ng-pristine-remove&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_30_checking customer with resp user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9e59829-176d-4e88-9b57-28d863467477</testCaseGuid>
+   <variable>
+      <defaultValue>'Select_ABC Beer co'</defaultValue>
+      <description></description>
+      <id>e2fbe975-0244-47ee-82cc-ddf9058a62a3</id>
+      <masked>false</masked>
+      <name>CUSTOMER</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_17_Header setting Region deletion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2c19278-08e6-45a4-a61c-2917239de9cf</testCaseGuid>
+   <variable>
+      <defaultValue>'east'</defaultValue>
+      <description></description>
+      <id>8289c568-b907-4522-87d4-84dee5e52d93</id>
+      <masked>false</masked>
+      <name>region</name>
+   </variable>
+</TestCaseEntity>

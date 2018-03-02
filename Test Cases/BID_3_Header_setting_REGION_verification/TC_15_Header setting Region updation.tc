@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15_Header setting Region updation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>552dfc08-f80d-46cd-8784-90f52452ea6c</testCaseGuid>
+   <variable>
+      <defaultValue>'east'</defaultValue>
+      <description></description>
+      <id>fe82956d-37d9-4f92-96ef-de5056cc4b19</id>
+      <masked>false</masked>
+      <name>region</name>
+   </variable>
+</TestCaseEntity>

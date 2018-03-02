@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>Regression_test_smartbar</name>
+   <tag></tag>
+   <UUID>1b2d90d2-3e68-4e6e-87f0-97c06fa61ee6</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>

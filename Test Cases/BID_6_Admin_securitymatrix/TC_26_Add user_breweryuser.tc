@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_26_Add user_breweryuser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3ef00af-8077-45d2-a74d-eca61361067b</testCaseGuid>
+   <variable>
+      <defaultValue>'G1'</defaultValue>
+      <description></description>
+      <id>a10074d6-3565-4d5a-84a8-cc211683b32c</id>
+      <masked>false</masked>
+      <name>groupname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>087cc750-de2a-4a2c-8f13-73506aa523f9</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_23_checking the created group in the list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd33dfb6-61c1-4261-ae4d-814bbec5509d</testCaseGuid>
+   <variable>
+      <defaultValue>'G1'</defaultValue>
+      <description></description>
+      <id>0bcd62fb-b679-476f-a5e9-cb1333045272</id>
+      <masked>false</masked>
+      <name>groupname</name>
+   </variable>
+</TestCaseEntity>

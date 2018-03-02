@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_1_Create policy_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd8fb261-9fe2-470f-a08b-07aef20a896a</testCaseGuid>
+</TestCaseEntity>

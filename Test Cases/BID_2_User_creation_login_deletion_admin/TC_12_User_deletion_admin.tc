@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_12_User_deletion_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff87dd39-d4c6-4a00-91fb-237b384ad487</testCaseGuid>
+</TestCaseEntity>

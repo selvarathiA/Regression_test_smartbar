@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_16_Admin_region_deletion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d8a59fa-e6b4-490e-a705-8ed41caf0a63</testCaseGuid>
+   <variable>
+      <defaultValue>'east'</defaultValue>
+      <description></description>
+      <id>2248790a-eca5-4775-8368-06d5503f4262</id>
+      <masked>false</masked>
+      <name>region</name>
+   </variable>
+</TestCaseEntity>

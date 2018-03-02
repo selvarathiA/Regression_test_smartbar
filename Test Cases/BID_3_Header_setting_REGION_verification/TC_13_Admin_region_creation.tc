@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_13_Admin_region_creation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb50aaa2-6d19-4946-a57c-66b8d58ae598</testCaseGuid>
+   <variable>
+      <defaultValue>'East'</defaultValue>
+      <description></description>
+      <id>c8a4ad06-ba5c-4e92-885e-9bacfa1c4c43</id>
+      <masked>false</masked>
+      <name>region</name>
+   </variable>
+</TestCaseEntity>

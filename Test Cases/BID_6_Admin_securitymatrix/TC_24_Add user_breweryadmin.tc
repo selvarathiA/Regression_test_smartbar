@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_24_Add user_breweryadmin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e056e485-1650-44f0-8a2f-9a1ebdc34eab</testCaseGuid>
+   <variable>
+      <defaultValue>'G1'</defaultValue>
+      <description></description>
+      <id>1ebe7cc8-b508-46b5-b638-b01c915a7f2e</id>
+      <masked>false</masked>
+      <name>groupname</name>
+   </variable>
+</TestCaseEntity>

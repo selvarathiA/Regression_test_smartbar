@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_11_Delete_User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8effd25a-e565-4817-bbb5-e938b6be7589</testCaseGuid>
+   <variable>
+      <defaultValue>'qwery'</defaultValue>
+      <description></description>
+      <id>02378f76-cbdc-4877-aed3-8394b4ca2c46</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_preOpenTue</name>
+   <tag></tag>
+   <elementGuidId>0b99a6a1-cabe-4400-938c-2253b7c131f8</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control orange-border white-font ng-isolate-scope ui-timepicker-input ng-valid-required ng-touched ng-dirty ng-valid-parse ng-invalid ng-invalid-time</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>preOpenTue</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>locationInfos.locationHours.preOpenTue</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ui-timepicker</name>
+      <type>Main</type>
+      <value>timePickerOptions</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;locationInfoForm&quot;)/fieldset[@class=&quot;scheduler-border&quot;]/div[@class=&quot;control-group&quot;]/div[@class=&quot;col-md-12 col-sm-12 arrow-drop&quot;]/ng-include[@class=&quot;ng-scope&quot;]/table[@class=&quot;table table-hover table-light fg ng-scope&quot;]/thead[@class=&quot;top-bg-yt&quot;]/tr[2]/td[4]/input[@class=&quot;form-control orange-border white-font ng-isolate-scope ui-timepicker-input ng-valid-required ng-touched ng-dirty ng-valid-parse ng-invalid ng-invalid-time&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
