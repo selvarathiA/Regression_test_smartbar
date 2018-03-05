@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_32_Productmanagement_grant_access_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97adcfee-ba75-4d14-9c13-3ddb3db21dc3</testCaseGuid>
+</TestCaseEntity>

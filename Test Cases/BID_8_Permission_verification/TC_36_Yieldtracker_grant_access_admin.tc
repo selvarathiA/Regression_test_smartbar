@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_36_Yieldtracker_grant_access_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0c19b72-b9ab-4198-a178-4f81ca9b6eea</testCaseGuid>
+</TestCaseEntity>

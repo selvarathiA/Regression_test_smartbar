@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_61_alert_grant_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfcb739e-5d7f-43a5-b574-653bb9eee774</testCaseGuid>
+</TestCaseEntity>

@@ -20,9 +20,21 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('TC_4_Admin_logout/Page_SmartBar  Admin Dashboard/i_fa fa-angle-down'))
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('beta1.beerboard.com')
+
+WebUI.click(findTestObject('TC_1_Login/Page_Welcome to SmartBar/button_Dont Allow'))
+
+WebUI.setText(findTestObject('TC_1_Login/Page_Welcome to SmartBar/input_useremail'), 'admin')
+
+WebUI.setText(findTestObject('TC_1_Login/Page_Welcome to SmartBar/input_userpassword'), 'password')
+
+WebUI.click(findTestObject('TC_1_Login/Page_Welcome to SmartBar/span_Login'))
 
 WebUI.delay(10)
+
+WebUI.click(findTestObject('TC_4_Admin_logout/Page_SmartBar  Admin Dashboard/i_fa fa-angle-down'))
 
 WebUI.click(findTestObject('TC_4_Admin_logout/Page_SmartBar  Admin Dashboard/a_Logout'))
 

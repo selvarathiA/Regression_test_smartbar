@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_60_Alert_grant_access_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdff8ddd-685d-49c3-bf35-bdbf131c358c</testCaseGuid>
+</TestCaseEntity>

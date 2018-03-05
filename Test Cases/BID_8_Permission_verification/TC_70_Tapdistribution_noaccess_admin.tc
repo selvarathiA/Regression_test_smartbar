@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_70_Tapdistribution_noaccess_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e25c21a2-be81-442b-89b1-2ec13b42699e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_54_shares_grant_noaccess_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e54ce933-6fc3-46b9-9ea0-1b85a1e0f9fa</testCaseGuid>
+</TestCaseEntity>

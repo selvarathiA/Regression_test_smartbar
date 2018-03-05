@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_62_alert_noaccess_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43c7e821-4914-4d35-96c9-06aa1111abbd</testCaseGuid>
+</TestCaseEntity>

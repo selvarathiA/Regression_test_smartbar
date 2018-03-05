@@ -19,6 +19,20 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('beta1.beerboard.com')
+
+WebUI.click(findTestObject('TC_1_Login/Page_Welcome to SmartBar/button_Dont Allow'))
+
+WebUI.setText(findTestObject('TC_1_Login/Page_Welcome to SmartBar/input_useremail'), username)
+
+WebUI.setText(findTestObject('TC_1_Login/Page_Welcome to SmartBar/input_userpassword'), password)
+
+WebUI.click(findTestObject('TC_1_Login/Page_Welcome to SmartBar/span_Login'))
+
+WebUI.delay(10)
+
 WebUI.click(findTestObject('TC_2_User logout/Page_SmartBar  Retailer Dashboard/img_img-circle'))
 
 WebUI.click(findTestObject('TC_2_User logout/Page_SmartBar  Retailer Dashboard/a_Logout'))

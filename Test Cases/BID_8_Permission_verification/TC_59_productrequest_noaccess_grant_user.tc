@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_59_productrequest_noaccess_grant_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c409b3b-9ff0-48d7-a816-10e3dae10aee</testCaseGuid>
+</TestCaseEntity>

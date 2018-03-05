@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_46_Guradrails_grant_noaccess_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7ea6919-cca4-4d27-a781-708a37cf31f8</testCaseGuid>
+</TestCaseEntity>

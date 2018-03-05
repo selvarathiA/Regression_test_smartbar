@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_66_Beerboard_noaccess_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5837e15e-03a9-416e-b06c-301c7aa2eb00</testCaseGuid>
+</TestCaseEntity>

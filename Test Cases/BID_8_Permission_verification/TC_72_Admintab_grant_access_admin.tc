@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_72_Admintab_grant_access_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d26e9027-8c2f-4b51-a2fe-0c835560118f</testCaseGuid>
+</TestCaseEntity>

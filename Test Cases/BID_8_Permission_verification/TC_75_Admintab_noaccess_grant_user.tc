@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_75_Admintab_noaccess_grant_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac0e76c4-5249-431d-a459-1b7639388865</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_42_shares_grant_access_admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b084516f-1f41-46a4-95d3-9d87f2f909d7</testCaseGuid>
+</TestCaseEntity>

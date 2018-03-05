@@ -32,3 +32,7 @@ WebUI.setText(findTestObject('TC_1_Login/Page_Welcome to SmartBar/input_userpass
 
 WebUI.click(findTestObject('TC_1_Login/Page_Welcome to SmartBar/span_Login'))
 
+WebUI.delay(10)
+
+WebUI.closeBrowser()
+
